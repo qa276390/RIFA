@@ -348,7 +348,7 @@
 ,
 { "type": "Feature", "id": 172, "properties": { "id": "2350920101", "name": "Ore-Oghene Primary School" }, "geometry": { "type": "Point", "coordinates": [ 5.6139076, 6.34562 ] } }
 ,
-{ "type": "Feature", "id": 173, "properties": { "id": "2350920100", "name": "hi" }, "geometry": { "type": "Point", "coordinates":  [ 24.9693213, 121.182964 ] } }
+{ "type": "Feature", "id": 173, "properties": { "id": "2350920150", "name": "hi" }, "geometry": { "type": "Point", "coordinates":  [ 4.331563, 7.12123 ] } }
 
 ]
 }
